@@ -25,7 +25,8 @@ The main workflow is implemented in the Python script below and demonstrated usi
 1. Handling Missing Values  
 2. Removing Duplicates  
 3. Renaming a columns
-4. Dropping Unnecessary Columns  
+4. Dropping Unnecessary Columns
+5. Detection outliers
 
 ## ⚙️ Tools & Libraries
 - **Environment:** Google Colab (Python 3)  
